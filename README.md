@@ -5,7 +5,7 @@ Authenticate your wallet by signing and verifying messages using Rust.
 A simple library to help authenticate addresses via signing + ecrecover (elliptic curve recover) the signature for the public key.
 
 ## Why
-I am impelementing something for my Rust learning process.
+I am implementing something for my Rust learning process.
 
 ## Resources
 - [Create and verify msgs](https://shobhitic.github.io/ethsign/)
